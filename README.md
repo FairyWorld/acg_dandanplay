@@ -1,9 +1,9 @@
 # 弹弹play
 
-#### 介绍
+####  :tw-25b6: 介绍
 弹弹play播放器：全功能本地视频+弹幕播放器
 
-#### 下载
+####  :tw-1f310: 下载
 
 1. Windows版： [联想应用商店](https://lestore.lenovo.com/detail/10343)
 2. 安卓版： [安卓概念版](https://gitee.com/xyoye/DanDanPlayForAndroid/releases)
@@ -12,7 +12,11 @@
 5. macOS版： [AniXPlayer for macOS](https://gitee.com/sun_sx/dandanplay_mac_update/releases)
 6. Windows版网盘分流 [网盘1](https://cowtransfer.com/s/9ea66a3241cb40) [网盘2](https://pan.baidu.com/s/13ACWJauADxbracesBCpcEg?pwd=rrv7)
 
-#### 更新日志
+####  :tw-1f4cb: 更新日志
+
+[查看完整更新历史](https://www.dandanplay.com/blog.html)
+
+**近期更新：**
 
 **[Windows版][UWP版] v14.2.4**
 - UWP 版升级为 x64 架构，增加 UWP 版相关的兼容性改动
@@ -34,7 +38,7 @@
 - 修复可能导致播放器启动失败的问题
 - 修复媒体库文件监控设置为弹弹play目录后，可能会导致日志不断增长的问题
 
-#### 用户反馈
+####  :tw-1f4ac: 用户反馈
 
 1. [官方反馈社区](https://support.qq.com/products/104929)
 2. 本项目Issue区
