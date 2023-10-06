@@ -12,11 +12,17 @@
 5. macOS版： [AniXPlayer for macOS](https://gitee.com/sun_sx/dandanplay_mac_update/releases)
 6. Windows版网盘分流 [网盘1](https://cowtransfer.com/s/9ea66a3241cb40) [网盘2](https://pan.baidu.com/s/13ACWJauADxbracesBCpcEg?pwd=rrv7)
 
-####  :tw-1f4cb: 更新日志
+####  :tw-1f4cb: 近期更新
 
 [查看完整更新历史](https://www.dandanplay.com/blog.html)
 
-**近期更新：**
+**测试版 v14.2.5**
+- 改善了弹幕过滤性能与内存占用
+- 新增设置：开机自动启动播放器
+- 新增开关：启动播放器时自动开始未完成的下载任务
+- 优化网络测试与自动修复向导相关功能
+- 修复播放器从受限权限文件夹中启动时首页报错的问题
+- 修复拖拽文件进入播放器时，视频加载过程中会阻塞资源管理器窗口的问题
 
 **[Windows版][UWP版] v14.2.4**
 - UWP 版升级为 x64 架构，增加 UWP 版相关的兼容性改动
