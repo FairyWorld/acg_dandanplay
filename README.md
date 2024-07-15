@@ -9,7 +9,7 @@
 2. 安卓版： [安卓概念版](https://gitee.com/xyoye/DanDanPlayForAndroid/releases)
 3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG)
 4. UWP版： [微软商店](https://www.microsoft.com/store/productId/9nwpvd7t1hpw)
-5. macOS版： [AniXPlayer for macOS](https://gitee.com/sun_sx/dandanplay_mac_update/releases)
+5. macOS版： [AniXPlayer](https://gitee.com/sun_sx/dandanplay_mac_update/releases) [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
 6. Windows版网盘分流 [网盘1](https://www.123pan.com/s/KFBlVv-E4SA3.html) [网盘2](https://pan.baidu.com/s/13ACWJauADxbracesBCpcEg?pwd=rrv7)
 
 ####  :tw-1f4cb: 近期更新
