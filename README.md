@@ -9,7 +9,7 @@
 2. 安卓版： [安卓概念版](https://gitee.com/xyoye/DanDanPlayForAndroid/releases)
 3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG)
 4. UWP版： [微软商店](https://www.microsoft.com/store/productId/9nwpvd7t1hpw)
-5. macOS版： [AniXPlayer](https://gitee.com/sun_sx/dandanplay_mac_update/releases) [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
+5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
 6. Windows版网盘分流 [网盘1](https://www.123pan.com/s/KFBlVv-E4SA3.html) [网盘2](https://pan.baidu.com/s/13ACWJauADxbracesBCpcEg?pwd=rrv7)
 
 ####  :tw-1f4cb: 近期更新
@@ -85,38 +85,8 @@
 - 修复了移除媒体库文件后导航栏选中项被切换的问题
 - 修复了可能无法添加播放历史的问题
 
-
-**[Windows版][UWP版] v15.7.0**
-- VLC内核更新至官方v3.0.21
-- 下载内核更新至3.0.0.0240
-- 支持自定义使用的VLC内核版本（将文件放入指定位置后，重启播放器生效）
-- 购买会员界面新增在线支付（微信支付、支付宝）
-- 语音识别支持处理音频文件（如歌曲、有声小说等）
-- 语音识别结果、翻译结果增加导出LRC歌词功能
-- 媒体库、个人中心页面增加显示统计数字
-- 部分窗口增加提示文字
-- 优化部分界面报错提示
-- 弹幕外挂弹幕层全局开关快捷键改为 Ctrl+Alt+CapsLock
-- 修复异世界动漫解析问题
-- 修复媒体库番剧详情中未显示部分关联视频文件的问题
-
-
-**[Windows版][UWP版] v15.6.1**
-- 媒体库新增连接到远程电脑上的弹弹play（PC版）功能，支持浏览文件、播放视频并自动匹配弹幕库、加载远程电脑上的外挂字幕文件
-- 番剧详情页“元数据”区域改为表格形式展示
-- 媒体库网页版优化：
-  - 图片将按需加载（需要显示时才加载）
-  - 优化番剧列表在手机上的展示样式
-- 「弹幕外挂」支持CapsLock全局热键显示/关闭弹幕层
-- 改进媒体库刷新文件的相关算法
-- 优化了选择弹幕库窗口的手动搜索框，支持自动填入当前番剧名称
-- 爱奇艺插件支持搜索
-- 修复了爱奇艺插件无法解析的问题
-- 修复了一个下载状态改变时可能会导致程序崩溃的问题
-- 修复了媒体库初始化时有可能出错的问题
-- 修复了下载器任务列表、媒体库文件列表中，多选状态错误的问题
-
-
 ####  :tw-1f4ac: 用户反馈
 
 [官方反馈社区](https://support.qq.com/products/104929)
+
+[弹弹play文档站](https://doc.dandanplay.com/)
