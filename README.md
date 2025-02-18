@@ -5,16 +5,37 @@
 
 ####  :tw-1f310: 下载
 
+[从网盘下载（推荐）](https://kaedei.lanzouo.com/s/dandanplay)
+
 1. Windows版： [联想应用商店](https://lestore.lenovo.com/detail/10343)
-2. 安卓版： [安卓概念版](https://gitee.com/xyoye/DanDanPlayForAndroid/releases)
+2. 安卓版： [安卓概念版Gitee](https://gitee.com/xyoye/DanDanPlayForAndroid/releases) | [安卓概念版GitHub](https://github.com/xyoye/DanDanPlayForAndroid/releases)
 3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG)
 4. UWP版： [微软商店](https://www.microsoft.com/store/productId/9nwpvd7t1hpw)
-5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
-6. Windows版网盘分流 [网盘1](https://www.123pan.com/s/KFBlVv-E4SA3.html) [网盘2](https://pan.baidu.com/s/13ACWJauADxbracesBCpcEg?pwd=rrv7)
+5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) | [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
 
 ####  :tw-1f4cb: 近期更新
 
 [查看完整更新历史](https://www.dandanplay.com/blog.html)
+
+**[Windows版][UWP版] v15.13.0**
+1. 新增“修改播放器帧率上限”功能，可以配合其他软件对视频和弹幕补帧
+2. 新增视频实时美颜功能
+3. 画面优化界面中修改参数后会实时生效，不再需要点击“应用”按钮
+4. 修复了弹幕来源页面加载时，弹幕偏移的分钟数显示错误的问题
+5. 修复了部分情况下远程访问/安卓投屏播放视频时没有云同步观看历史的问题
+6. 修复了多个 UI 细节问题
+
+**[Windows版][UWP版] v15.12.0**
+1. 适配弹弹play开放平台相关变更
+2. 优化媒体库番剧信息刷新速度
+3. SVP增加使用ffdshow（旧）的选项
+
+**[Windows版][UWP版] v15.11.0**
+1. 新增HDR手动开关
+2. 新增视频色彩调整（动态范围修正、饱和度、对比度、亮度、伽马）
+3. 支持在更多情况下（如串流）重新选择弹幕库并重新开始播放
+4. 字幕翻译新增GPT-4o mini服务
+5. 修复手动重新启动远程访问服务时报错的问题
 
 **[Windows版][UWP版] v15.10.0**
 1. VLC内核支持HDMI/SPDIF音频直通功能
@@ -58,32 +79,6 @@
 12. 修复连接部分WebDAV服务器时无法开始播放的问题
 13. 修复了初始化WebView2时可能报错的问题
 14. 修复搜索弹幕库出错时会意外报错的问题
-
-**[Windows版][UWP版] v15.8.0**
-- 更新下载内核至3.0.2
-- 下载内核新增“自动封禁”功能，支持手动设定黑名单或自动封禁问题IP：
-  - PeerID/客户端名称黑名单
-  - IP地址黑名单（支持CIDR和IPv6）
-  - 启发式进度检测功能，根据上传数据量、对方进度报告等条件自动封禁可能有问题的IP
-  - 启发式检测支持自动封禁问题IP段
-  - 自动加载网络上的共享IP封禁列表
-  - 保存封禁历史，支持导出Excel格式的下载拦截和封禁历史的数据统计
-- 媒体库新增连接 OneDrive 网盘功能，支持在线播放，支持浏览“与我分享”的文件/文件夹
-- VLC内核新增设置：
-  - 快速定位：提高跳转速度，但会降低精度
-  - 渲染精度：将视频渲染为更高的分辨率，用于改善画质和字幕清晰度
-- 新增记录播放历史&保存播放进度的阈值设定
-- 下载任务信息窗口增加主动断开连接功能
-- 文件识别/弹幕功能关闭时将显示提示
-- 准备创建下载任务时，窗口将默认显示对应工具的默认下载位置
-- 番剧详情-剧集列表右键菜单可以复制弹幕库ID
-- 弹幕列表页会显示当前匹配的弹幕库名称
-- 完善串流时断开重连功能的稳定性
-- 修复了一个导致串流播放可能断开连接的问题
-- 修复了无法串流部分大体积视频的问题
-- 修复了在语音识别、字幕翻译窗口导出字幕可能出错的问题
-- 修复了移除媒体库文件后导航栏选中项被切换的问题
-- 修复了可能无法添加播放历史的问题
 
 ####  :tw-1f4ac: 用户反馈
 
