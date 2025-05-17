@@ -11,11 +11,24 @@
 2. 安卓版： [安卓概念版Gitee](https://gitee.com/xyoye/DanDanPlayForAndroid/releases) | [安卓概念版GitHub](https://github.com/xyoye/DanDanPlayForAndroid/releases)
 3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG)
 4. UWP版： [微软商店](https://www.microsoft.com/store/productId/9nwpvd7t1hpw)
-5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) | [NipaPlay](https://github.com/MCDFsteve/NipaPlay)
+5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) | [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
+6. Linux版： [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
 
 #### 📜 近期更新
 
 [查看完整更新历史](https://www.dandanplay.com/blog.html)
+
+**Windows版 v15.14.0.0**
+1. 新增芒果TV解析插件
+2. 番剧详情页支持显示每一集关联的本地文件信息
+3. 优化了登录失败、找回密码、找回用户名发生错误时的提示信息
+4. 串流功能支持记录并选择之前的播放历史
+5. 优化了部分页面的UI，优化了播放器首页的滚动性能
+6. 修复了联网下载搜索字幕时网站错误的问题
+7. 修复了优酷解析插件不支持新版网址的问题
+8. 修复了关注部分番剧后，媒体库按名称浏览时无法显示界面的问题
+9. 修复了从浏览器选择特定BiliBili分P视频时，丢失分P参数的问题
+10. 修复了编辑媒体库Emby连接时无法填入过长的服务器地址的问题
 
 **[Windows版][UWP版] v15.13.0**
 1. 新增“修改播放器帧率上限”功能，可以配合其他软件对视频和弹幕补帧
