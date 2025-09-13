@@ -1,22 +1,42 @@
 # 弹弹play
 
 #### ▶️ 介绍
+
 弹弹play播放器：全功能本地视频+弹幕播放器
 
 #### 🌐 下载
 
-[从网盘下载（推荐）](https://kaedei.lanzouo.com/s/dandanplay)
+[从网盘下载各个平台版本（推荐）](https://kaedei.lanzouo.com/s/dandanplay)
 
 1. Windows版： [联想应用商店](https://lestore.lenovo.com/detail/10343) | [GitHub发布页](https://github.com/kaedei/dandanplay/releases)
 2. 安卓版： [安卓概念版Gitee](https://gitee.com/xyoye/DanDanPlayForAndroid/releases) | [安卓概念版GitHub](https://github.com/xyoye/DanDanPlayForAndroid/releases)
-3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG)
+3. iOS版（需要 TestFlight）： [AniXPlayer](https://testflight.apple.com/join/R6JotnNG) | [NipaPlay](https://testflight.apple.com/join/4JMh3t44)
 4. UWP版： [微软商店](https://www.microsoft.com/store/productId/9nwpvd7t1hpw)
-5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) | [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
-6. Linux版： [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
+5. macOS版： [AniXPlayer](https://github.com/sunsx9316/DanDanPlay_Experience/releases) | [NipaPlay](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
+6. Linux版： [NipaPlay](https://github.com/MCDFsteve/NipaPlay-Reload/releases)
 
 #### 📜 近期更新
 
 [查看完整更新历史](https://www.dandanplay.com/blog.html)
+
+**Windows版 v16.2.2.0**
+
+1. 升级播放器首页UI
+2. 升级弹幕引擎，减少渲染所需计算量，提升总体弹幕动画性能
+3. 新增截取动图功能，支持复制到剪贴板或保存为GIF/WebP/APNG/MP4文件
+4. 新增片头曲检测功能（beta），将通过算法检测动画类视频的片头曲位置并提供跳过按钮
+5. 升级播放器边栏界面UI
+6. 在 Windows 11 上启用窗口圆角和阴影
+7. 优化了进度条缩略图的响应速度
+8. 优化了用户关注列表、新番列表、媒体库列表等大型列表的响应速度和滚动流畅度
+9. 优化了窗口边缘拖动的体验
+10. 优化了部分界面文字模糊的问题
+11. 优化了部分界面元素在暗黑模式下的亮度和颜色
+12. 优化了链接文字按钮的可读性
+13. 改进连接到Emby/Jellyfin窗口出错时的用户提示信息
+14. 番剧详情页的简介中增加额外的信息展示
+15. 修复资源搜索页面表头宽度错误的问题
+16. 修复了5dm插件的解析问题
 
 **Windows版 v16.1.0.0**
 1. 文件识别窗口新增“AI建议”功能，将高亮显示AI推荐的匹配项
