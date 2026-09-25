@@ -18,7 +18,7 @@
 
 #### 📜 近期更新
 
-[查看完整更新历史](https://doc.dandanplay.com/changelog/)
+[查看完整更新历史](https://www.dandanplay.com/changelog.html)
 
 #### 💬 用户反馈
 
